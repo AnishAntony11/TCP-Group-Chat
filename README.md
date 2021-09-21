@@ -49,5 +49,5 @@ Lastly, we create two threads, one for the receive and other for the write metho
 
 ### Screenshots
 
-![](./A.png)
+![A](https://user-images.githubusercontent.com/89770438/134208021-0d93577d-769c-49ad-ab79-682d0720a345.jpg)
 
