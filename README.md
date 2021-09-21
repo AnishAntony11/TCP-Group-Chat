@@ -53,5 +53,7 @@ Lastly, we create two threads, one for the receive and other for the write metho
 
 ![B](https://user-images.githubusercontent.com/89770438/134208267-6a09f38f-41cf-4e4f-ac54-0e418326ba35.jpg)
 
+![C](https://user-images.githubusercontent.com/89770438/134208397-4da7cf3f-2040-4835-96f4-a406fe805ce9.jpg)
+
 
 
