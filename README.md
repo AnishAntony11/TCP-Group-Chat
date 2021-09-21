@@ -49,5 +49,5 @@ Lastly, we create two threads, one for the receive and other for the write metho
 
 ### Screenshots
 
-![](A.png)
+![](./A.png)
 
