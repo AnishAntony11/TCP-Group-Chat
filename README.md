@@ -1,6 +1,5 @@
 
-# ASSIGNMENT 2 
-## Socket Programming TCP Group Chat
+# Socket Programming TCP Group Chat
 
 
 ### server.py
@@ -59,5 +58,4 @@ Lastly, we create two threads, one for the receive and other for the write metho
 
 
 Name of the student : Anish Antony
-
 Roll No: SM21MTECH11003
