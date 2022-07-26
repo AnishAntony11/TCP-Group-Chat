@@ -57,5 +57,4 @@ Lastly, we create two threads, one for the receive and other for the write metho
 
 
 
-Name of the student : Anish Antony
-Roll No: SM21MTECH11003
+Name: Anish Antony
